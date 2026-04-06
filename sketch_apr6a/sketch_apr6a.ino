@@ -115,7 +115,7 @@ void lv_create_main_gui(void) {
   // Create a text label aligned center on top ("Hello, world!")
   lv_obj_t * text_label = lv_label_create(lv_screen_active());
   lv_label_set_long_mode(text_label, LV_LABEL_LONG_WRAP);    // Breaks the long lines
-  lv_label_set_text(text_label, "Hello, world!");
+  lv_label_set_text(text_label, "Hello, world 2");
   lv_obj_set_width(text_label, 150);    // Set smaller width to make the lines wrap
   lv_obj_set_style_text_align(text_label, LV_TEXT_ALIGN_CENTER, 0);
   lv_obj_align(text_label, LV_ALIGN_CENTER, 0, -90);

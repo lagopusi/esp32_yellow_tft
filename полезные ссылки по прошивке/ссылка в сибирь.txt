@@ -1,2 +1,5 @@
 Мануал для билда с lvgl
 https://randomnerdtutorials.com/lvgl-cheap-yellow-display-esp32-2432s028r/
+
+Распиновка
+https://randomnerdtutorials.com/esp32-cheap-yellow-display-cyd-pinout-esp32-2432s028r/
